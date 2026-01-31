@@ -56,5 +56,5 @@ All data is stored locally in the browser using localStorage.
 
 ## 👤 Author
 
-Markiian Bushko
+Markiian Bushko  
 GitHub: https://github.com/Atsui04
